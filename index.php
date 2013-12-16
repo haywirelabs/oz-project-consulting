@@ -32,9 +32,8 @@
         <div class="container">
             <div class="content-header">
                 <h1>Joe Osborne</h1>
-
                 <p>Phone: 240-285-9246</p>
-
+                <p><a href="mailto:joe.osborne@oz-project-consulting.com">joe.osborne@oz-project-consulting.com</a></p>
                 <p><a href="http://www.linkedin.com/in/josephmosborne/" target="_blank">LinkedIn</a></p>
             </div>
 
