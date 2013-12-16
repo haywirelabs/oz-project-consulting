@@ -1,7 +1,9 @@
 body{
   padding-top: 50px;
+  font-family: 'Lato', sans-serif;
 }
 .content-header {
+  border: 1px solid #DDDDDD;
   padding: 40px 15px;
   text-align: center;
 }
@@ -21,3 +23,101 @@ body{
 #footer .text-muted{
   padding-top: 5px;
 }
+
+/* Education Content */
+.content-education{
+  border: 1px solid #DDDDDD;
+  padding: 10px;
+  margin: 5px 0;
+}
+.ed-degree{
+  
+}
+.ed-school{
+  
+}
+.ed-date{
+  float: right;
+}
+
+/* Certification Content */
+.content-certs{
+  border: 1px solid #DDDDDD;
+  padding: 10px;
+  margin: 5px 0;
+}
+.cert-title{
+  
+}
+.cert-id{
+  
+}
+
+/* Clearance Content */
+.content-clearance{
+  border: 1px solid #DDDDDD;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+/* Summary Content */
+.content-summary{
+  border: 1px solid #DDDDDD;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+/* Employment Chronology Content */
+.content-employment-chronology{
+  border: 1px solid #DDDDDD;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+/* Customer Content */
+.content-customers{
+  border: 1px solid #DDDDDD;
+  padding: 10px;
+  margin: 5px 0;
+}
+.customer-name{
+  
+}
+.customer-date{
+  float: right;
+}
+
+/* Contract Content */
+.content-contract{
+  border: 1px solid #DDDDDD;
+  padding: 10px;
+  margin: 5px 0;
+}
+.contract-name{
+  
+}
+.contract-date{
+  float: right;
+}
+
+/* Contract Detail Content */
+.content-contract-detail{
+  border: 1px dotted #DDDDDD;
+  padding: 5px;
+  margin: 3px 0;
+}
+
+.contract-detail-name{
+  
+}
+
+.contract-detail-date{
+  float: right;
+}
+
+
+
+
+
+
+

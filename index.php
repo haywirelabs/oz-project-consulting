@@ -5,6 +5,7 @@
     <title>Joe Osborne Resume - Oz Project Consulting</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
     <link href="assets/css/oz.css" rel="stylesheet" type="text/css"><!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -57,7 +58,7 @@
                 <p><span class="cert-title">ITIL Foundations License</span> <span class="cert-id">#GR750011956OJ</span></p>
             </div>
 
-            <div>
+            <div class="content-clearance">
                 <h2>Clearance Level</h2>
 
                 <p>Active TS/SCI (SSBI 9 Nov 11), Other clearances, OCI compliant with FAR</p>
