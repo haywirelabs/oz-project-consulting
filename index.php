@@ -38,17 +38,14 @@
                 <p><a href="http://www.linkedin.com/in/josephmosborne/" target="_blank">LinkedIn</a></p>
             </div>
 
-            <div class="content-education">
+            <div class="content-education col-md-4">
                 <h2>Education</h2>
-
-                <p><span class="ed-degree">MBA Business Administration</span> <span class="ed-school">Frostburg State University</span> <span class="ed-gpa">GPA 3.73</span> <span class="ed-date">1990</span></p>
-
-                <p><span class="ed-degree">BS Business Administration/Psychology</span> <span class="ed-school">University of La Verne</span> <span class="ed-gpa">GPA 3.14</span> <span class="ed-date">1980</span></p>
-
-                <p><span class="ed-degree">AA Electronics Technology</span> <span class="ed-school">Los Angeles Community College <span class="ed-date">1978</span></span></p>
+                <p><div class="ed-degree">MBA Business Administration</div> <div class="ed-school">Frostburg State University</div> <div class="ed-gpa">GPA 3.73<span class="ed-date">1990</span></div></p>
+                <p><div class="ed-degree">BS Business Administration/Psychology</div> <div class="ed-school">University of La Verne</div> <div class="ed-gpa">GPA 3.14<span class="ed-date">1980</span></div></p>
+                <p><div class="ed-degree">AA Electronics Technology</div> <div class="ed-school">Los Angeles Community College<span class="ed-date">1978</span></div></p>
             </div>
 
-            <div class="content-certs">
+            <div class="content-certs col-md-offset-4 col-md-6">
                 <h2>Certifications</h2>
 
                 <p><span class="cert-title">Project Management Professional (PMP)</span> <span class="cert-id">License #1557540</span></p>
@@ -93,7 +90,8 @@
             </div>
 
             <div class="content-employment-chronology">
-                <table>
+				<h2>Employment Chronology</h2>
+                <table class="table table-condensed table-hover">
                     <thead>
                         <tr>
                             <th>Company</th>
@@ -213,12 +211,11 @@
             <div class="content-customers">
                 <h3>Customers</h3>
 
-                <ul>
-                    <li><span class="customer-name">National Geospatial-Intelligence Agency (NGA)</span> <span class="customer-date">11/2003 - Present</span></li>
+                  <p><span class="customer-name">National Geospatial-Intelligence Agency (NGA)</span> <span class="customer-date">11/2003 - Present</span></p>
 
-                    <li><span class="customer-name">National Imagery and Mapping Agency (NIMA)</span> <span class="customer-date">11/1996 - 11/2003</span></li>
+                  <p><span class="customer-name">National Imagery and Mapping Agency (NIMA)</span> <span class="customer-date">11/1996 - 11/2003</span></p>
 
-                    <li><span class="customer-name">National Photographic Interpretation Center (NPIC)</span> <span class="customer-date">03/1989 - 11/1996</span></li>
+                  <p><span class="customer-name">National Photographic Interpretation Center (NPIC)</span> <span class="customer-date">03/1989 - 11/1996</span></p>
                 </ul>
             </div>
 
