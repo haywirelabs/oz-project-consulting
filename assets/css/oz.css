@@ -2,10 +2,19 @@ body{
   padding-top: 50px;
   font-family: 'Lato', sans-serif;
 }
+hr{
+  margin: 3px;
+}
 .content-header {
-  border: 1px solid #DDDDDD;
-  padding: 40px 15px;
+  padding: 15px 15px;
   text-align: center;
+}
+.content-header .lead{
+  margin: 0;
+  padding: 0;
+}
+.content-header ul li{
+  font-size: 1.3em;
 }
 #wrap{
   min-height: 100%;
@@ -27,17 +36,17 @@ body{
 /* Education Content */
 .content-education{
   border: 1px solid #DDDDDD;
-  padding: 10px;
+  padding: 10px 10px 38px 10px;
   margin: 5px 0;
 }
 .ed-degree{
   
 }
 .ed-school{
-  
+ font-size: 0.8em;
 }
 .ed-gpa{
-
+ font-size: 0.8em;
 }
 .ed-date{
   float: right;
@@ -45,9 +54,11 @@ body{
 
 /* Certification Content */
 .content-certs{
-  border: 1px solid #DDDDDD;
-  padding: 10px;
-  margin: 5px 0;
+  border-top: 1px solid #DDDDDD;
+  border-right: 1px solid #DDDDDD;
+  border-bottom: 1px solid #DDDDDD;
+  padding: 10px 40px 24px;
+  margin: 5px 0 15px;
 }
 .cert-title{
   
@@ -58,9 +69,9 @@ body{
 
 /* Clearance Content */
 .content-clearance{
-  border: 1px solid #DDDDDD;
-  padding: 10px;
-  margin: 5px 0;
+  border-bottom: 1px solid #DDDDDD;
+  border-right: 1px solid #DDDDDD;
+  padding: 0 40px 5px;
 }
 
 /* Summary Content */
@@ -75,6 +86,7 @@ body{
   border: 1px solid #DDDDDD;
   padding: 10px;
   margin: 5px 0;
+  clear: left;
 }
 
 /* Customer Content */
@@ -105,11 +117,11 @@ body{
 
 /* Contract Detail Content */
 .content-contract-detail{
-  border: 1px dotted #DDDDDD;
-  padding: 5px;
-  margin: 3px 0;
 }
-
+.content-contract-detail ul{
+}
+.content-contract-detail ul li{
+}
 .contract-detail-name{
   
 }
@@ -119,7 +131,47 @@ body{
 }
 
 
-
+@media (max-width: 767px) {
+  .content-certs{
+    border: 1px solid #DDDDDD;
+    margin: 5px 0;
+    padding: 10px 10px 10px;
+  }
+  .content-clearance{
+    border: 1px solid #DDDDDD;
+    padding: 10px 10px 10px;
+  }
+  .content-contract h4{
+    font-size: 1.1em;
+  }
+  .contract-date{
+    clear: left;
+    float: left;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .content-certs{
+    padding: 10px 10px 10px;
+    margin: 5px 0;
+    border: 1px solid #DDDDDD;
+  }
+  .content-clearance{
+    padding: 10px 10px 10px;
+    border: 1px solid #DDDDDD;
+  }
+  .content-contract h4{
+    font-size: 1.1em;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .content-education{
+    padding-bottom: 18px;
+  }
+}
+@media (min-width: 1200px) {
+}
+@media print {
+}
 
 
 

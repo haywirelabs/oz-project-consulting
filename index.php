@@ -1,8 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!DOCTYPE html>
 
 <html>
 <head>
-    <title>Joe Osborne Resume - Oz Project Consulting</title>
+    <title>Joe Osborne - Project Consultant</title>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
@@ -18,12 +19,12 @@
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation</span></button> <a class="navbar-brand" href="index.php">Oz Project Consulting</a>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"><span class="sr-only">Toggle navigation</span></button> <a class="navbar-brand" href="index.php">Joe Osborne - Project Consultant</a>
             </div>
 
             <div class="collapse navbar-collapse">
-                <ul class="nav navbar-nav">
-                    <li class="active"><a href="index.php">Resume</a></li>
+                <ul class="nav navbar-nav navbar-right">
+                    <li style="display:none"><a href="downloads/Osborne_2013v2.docx">Download Word Version</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
@@ -33,32 +34,12 @@
         <div class="container">
             <div class="content-header">
                 <h1>Joe Osborne</h1>
-                <p>Phone: 240-285-9246</p>
-                <p><a href="mailto:joe.osborne@oz-project-consulting.com">joe.osborne@oz-project-consulting.com</a></p>
-                <p><a href="http://www.linkedin.com/in/josephmosborne/" target="_blank">LinkedIn</a></p>
-            </div>
-
-            <div class="content-education col-md-4">
-                <h2>Education</h2>
-                <p><div class="ed-degree">MBA Business Administration</div> <div class="ed-school">Frostburg State University</div> <div class="ed-gpa">GPA 3.73<span class="ed-date">1990</span></div></p>
-                <p><div class="ed-degree">BS Business Administration/Psychology</div> <div class="ed-school">University of La Verne</div> <div class="ed-gpa">GPA 3.14<span class="ed-date">1980</span></div></p>
-                <p><div class="ed-degree">AA Electronics Technology</div> <div class="ed-school">Los Angeles Community College<span class="ed-date">1978</span></div></p>
-            </div>
-
-            <div class="content-certs col-md-offset-4 col-md-6">
-                <h2>Certifications</h2>
-
-                <p><span class="cert-title">Project Management Professional (PMP)</span> <span class="cert-id">License #1557540</span></p>
-
-                <p><span class="cert-title">Agile Certified Practitioner (PMI-ACP)</span> <span class="cert-id">License #1578727</span></p>
-
-                <p><span class="cert-title">ITIL Foundations License</span> <span class="cert-id">#GR750011956OJ</span></p>
-            </div>
-
-            <div class="content-clearance">
-                <h2>Clearance Level</h2>
-
-                <p>Active TS/SCI (SSBI 9 Nov 11), Other clearances, OCI compliant with FAR</p>
+                <p class="lead">Project Consultant</p>
+                <ul class="list-inline">
+                  <li>Phone: 240-285-9246</li>
+                  <li><a href="mailto:joe.osborne@oz-project-consulting.com">joe.osborne@oz-project-consulting.com</a></li>
+                  <li><a href="http://linkedin.com/in/josephmosborne/" target="_blank">http://linkedin.com/in/josephmosborne</a></li>
+                </ul>
             </div>
 
             <div class="content-summary">
@@ -71,7 +52,7 @@
                 <ul>
                     <li>As a project manager for eXploit pre-acquisition, DOE transition, WALA site cutovers, NEA stand-up, and Mission partner IEC projects detailed below.</li>
 
-                    <li>As a team leader for CENTCOM NLE & forward, as well as the NGA Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
+                    <li>As a team leader for CENTCOM NLE &amp; forward, as well as the NGA Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
 
                     <li>As an operations support manager on the IEC development contract and the IDEX contract.</li>
 
@@ -89,8 +70,39 @@
                 <p></p>
             </div>
 
+            <div class="content-education col-md-3">
+                <h2>Education</h2>
+                <div class="ed-degree">MBA Business Administration</div>
+                <div class="ed-school">Frostburg State University</div>
+                <div class="ed-gpa">GPA 3.73<span class="ed-date">1990</span></div>
+                <hr/>
+                <div class="ed-degree">BS Business Administration/Psychology</div> 
+                <div class="ed-school">University of La Verne</div> 
+                <div class="ed-gpa">GPA 3.14<span class="ed-date">1980</span></div>
+                <hr/>
+                <div class="ed-degree">AA Electronics Technology</div>
+                <div class="ed-school">Los Angeles Community College</div>
+                <div class="ed-gpa"><span class="ed-date">1978</span></div>
+            </div>
+
+            <div class="content-certs col-md-9">
+                <h2>Certifications</h2>
+
+                <p><span class="cert-title">Project Management Professional (PMP)</span> <span class="cert-id">License #1557540</span></p>
+
+                <p><span class="cert-title">Agile Certified Practitioner (PMI-ACP)</span> <span class="cert-id">License #1578727</span></p>
+
+                <p><span class="cert-title">ITIL Foundations License</span> <span class="cert-id">#GR750011956OJ</span></p>
+            </div>
+
+            <div class="content-clearance col-md-offset-3">
+                <h2>Clearance Level</h2>
+                <p>Active TS/SCI (SSBI 9 Nov 11), Other clearances, OCI compliant with FAR</p>
+            </div>
+
+
             <div class="content-employment-chronology">
-				<h2>Employment Chronology</h2>
+        				<h2>Employment Chronology</h2>
                 <table class="table table-condensed table-hover">
                     <thead>
                         <tr>
@@ -116,7 +128,7 @@
                         </tr>
 
                         <tr>
-                            <td>Lockheed-Martin IS&GS</td>
+                            <td>Lockheed-Martin IS&amp;GS</td>
 
                             <td>Reston, VA</td>
 
@@ -126,7 +138,7 @@
                         </tr>
 
                         <tr>
-                            <td>Lockheed-Martin M&DS</td>
+                            <td>Lockheed-Martin M&amp;DS</td>
 
                             <td>Gaithersburg, MD</td>
 
@@ -210,19 +222,15 @@
 
             <div class="content-customers">
                 <h3>Customers</h3>
-
                   <p><span class="customer-name">National Geospatial-Intelligence Agency (NGA)</span> <span class="customer-date">11/2003 - Present</span></p>
-
                   <p><span class="customer-name">National Imagery and Mapping Agency (NIMA)</span> <span class="customer-date">11/1996 - 11/2003</span></p>
-
                   <p><span class="customer-name">National Photographic Interpretation Center (NPIC)</span> <span class="customer-date">03/1989 - 11/1996</span></p>
-                </ul>
             </div>
 
             <div class="content-contract">
                 <h4><span class="contract-name">Geoscout Contract (NSG SI CLIN)</span> <span class="contract-date">07/2004 - Present</span></h4>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <h5><span class="contract-detail-name">eXploit Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
 
                     <ul>
@@ -236,49 +244,49 @@
                     </ul>
                 </div><strong>NIES/NLE Deployment Integration support</strong>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <h5><span class="contract-detail-name">DOE Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
 
                     <p>Integration deployment project manager for this architecture transition effort moving eight of NGA&#39;s external image exploitation sites located on the Department of Energy (DOE) backbone from the DCM architecture to the WALA architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
                 </div>
 
-                <div class="content-contract-detail">
-                    <h5><span class="contract-detail-name">CENTCOM NLE & Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
+                <div class="content-contract-detail well well-sm">
+                    <h5><span class="contract-detail-name">CENTCOM NLE &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
-                    <p>This was a relatively small IV&V effort supporting the NGA Expeditionary Architecture (NEA) team as they established an NGA image exploitation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
+                    <p>This was a relatively small IV&amp;V effort supporting the NGA Expeditionary Architecture (NEA) team as they established an NGA image exploitation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <h5><span class="contract-detail-name">WALA site cutovers</span> <span class="contract-detail-date">01/2010 - 11/2010</span></h5>
 
                     <p>Integration deployment project manager for this high visibility effort to transition all of NGA&#39;s internal WALA architecture sites old source libraries to the new STIL library. It involved frequent domestic travel and some international travel.</p>
                 </div>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <h5><span class="contract-detail-name">NEA Standup</span> <span class="contract-detail-date">01/2009 - 01/2010</span></h5>
 
                     <p>Integration deployment project manager for the initial effort to test and deploy the NGA Expeditionary Architecture (NEA). Responsible for deployment, system integration and test support of NEA systems to war zone sites at Bagram, Baghdad, and Kabul integrating customer capabilities into those locations and providing interfaces to sister agencies/services. Produced Transition and Test Plan deliverables. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. NEA received the Meritorious Unit Citation. It involved periodic international travel.</p>
                 </div>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <h5><span class="contract-detail-name">Mission Partner IEC&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
 
                     <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four NGA exploitation sites for a mission partner. It involved periodic domestic and international travel.</p>
                 </div>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <h5><span class="contract-detail-name">NLE FY07 Epoch</span> <span class="contract-detail-date">01/2008 - 07-2008</span></h5>
 
                     <p>System Integration Team Lead for NGA test and deployment of the FY07 Epoch capability upgrade to all of the NGA Library Equivalent (NLE sites). It involved production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <h5><span class="contract-detail-name">NLE NE-95/178</span> <span class="contract-detail-date">05/2006 - 01/2008</span></h5>
 
                     <p>System Integration Team Lead for NGA test and deployment of the NE-95/178 capability upgrade to all of the NGA Library Equivalent (NLE sites). It involved frequent domestic travel and production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <h5><span class="contract-detail-name">NLE NE-142/149</span> <span class="contract-detail-date">07/2004 - 05/2006</span></h5>
 
                     <p>System Integration Team Lead responsible the initial establishment of both a hardware and software baseline of capabilities at the NGA Library Equivalent (NLE) sites providing test support, transition and test plan deliverables.Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
@@ -286,13 +294,13 @@
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">IEC (Integrated Exploitation Capability) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
+                <h4><span class="contract-name">Integrated Exploitation Capability (IEC) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <ul>
-                        <li>Operation Support manager responsible for providing IEC Program Operations and Sustainment (O&S) support to a range of NGA external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, CENTCOM, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
+                        <li>Operation Support manager responsible for providing IEC Program Operations and Sustainment (O&amp;S) support to a range of NGA external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, CENTCOM, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
 
-                        <li>Deputy Engineering Manager responsible for systems full life-cycle support of a UNIX (Solaris & IRIX) server and Windows 2000 client system coordinating the efforts of multiple contractor factory and remote site deployed engineers in a common effort of hardware, software, and systems upgrade and their ongoing operations and maintenance. Performed requirements analysis and development including custom (security requirements related) software development to a pre-packaged COTS/GOTS product baseline, hardware deployment, engineering staffing, RFC analysis, ECP generation, integration and test, requirements sell-off, CDRL&#39;s, and frequent customer interaction and presentations.</li>
+                        <li>Deputy Engineering Manager responsible for systems full life-cycle support of a UNIX (Solaris &amp; IRIX) server and Windows 2000 client system coordinating the efforts of multiple contractor factory and remote site deployed engineers in a common effort of hardware, software, and systems upgrade and their ongoing operations and maintenance. Performed requirements analysis and development including custom (security requirements related) software development to a pre-packaged COTS/GOTS product baseline, hardware deployment, engineering staffing, RFC analysis, ECP generation, integration and test, requirements sell-off, CDRL&#39;s, and frequent customer interaction and presentations.</li>
 
                         <li>Prepared contract proposal Cost and Tech Volume documents, SOW&#39;s (Statement of Work) and RTM&#39;s (Requirements Traceability Matrix) in support of ongoing bids and proposals.</li>
                     </ul>
@@ -300,9 +308,9 @@
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">IDEX (Image Data Exploitation System) Development and Sustainment Contract</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
+                <h4><span class="contract-name">Image Data Exploitation System (IDEX) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <ul>
                         <li>Provided night shift preventive maintenance and shift lead of 5 technicians.</li>
 
@@ -318,17 +326,18 @@
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">Norwest Mortgage Corporation (Wells Fargo)- partially concurrent with IDEX above</span> <span class="contract-date">03/1998 - 08/1999</span></h4>
+                <h4><span class="contract-name">Norwest Mortgage Corporation (Wells Fargo)</span> <span class="contract-date">03/1998 - 08/1999</span></h4>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <p>I was a Technical Supervisor (Grade I) Weekend Operations Manager for the Frederick Command Center. A combination UNIX (AIX) and IBM MVS operating environment supervising a weekend staff in around the clock banking IT operations consisting of a mix of batch, back-ups, network monitoring and remote online operations of the Minneapolis mainframe.</p>
                 </div>
+                <div><span class="glyphicon glyphicon-asterisk"></span> partially concurrent with IDEX above</div>
             </div>
 
             <div class="content-contract">
                 <h4><span class="contract-name">Nuclear Utility Services Training Corp (NUSTC)</span> <span class="contract-date">03/1986 - 08/1988</span></h4>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <ul>
                         <li>Program video producer managing a matrixed project specific crew of media professionals for typically three projects at a time. Researched and wrote an initial draft script. Researched and wrote an initial set of hardcopy training materials. Managed the budget and the overall program management.</li>
 
@@ -342,7 +351,7 @@
             <div class="content-contract">
                 <h4><span class="contract-name">US Navy</span> <span class="contract-date">12/1975 - 03/1986</span></h4>
 
-                <div class="content-contract-detail">
+                <div class="content-contract-detail well well-sm">
                     <ul>
                         <li>After initial military and technical training I was deployed to the Philippines supporting the Naval Communication Station at San Miguel. Stationed at Subic supporting the Autodin systems there and at Cubi Point supporting the receiver site Multiplex baseband and Microwave shot to Clark AFB. Additional periodic deployments to other Communication Station facilities at Mt. Santa Rita Relay site, a Transmitter site, and the US Embassy in Manila, all of which were on the island of Luzon.</li>
 
@@ -382,7 +391,7 @@
 
     <div id="footer">
         <div class="container">
-            <p class="text-muted">Joe Osborne 2013 - Oz Project Consulting</p>
+            <p class="text-muted">Joe Osborne - Project Consultant</p>
         </div>
     </div>
 
