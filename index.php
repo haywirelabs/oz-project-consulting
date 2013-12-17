@@ -24,8 +24,8 @@
 
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="downloads/Osborne_2013v2.docx">Download Word Version</a></li>
-                    <li><a href="downloads/JoeOsborne-ProjectConsultant.pdf"></a></li>
+                    <li><a href="downloads/Osborne_2013v2.docx">Download Word</a></li>
+                    <li><a href="downloads/JoeOsborne-ProjectConsultant.pdf">Download PDF</a></li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
