@@ -36,7 +36,7 @@ hr{
 /* Education Content */
 .content-education{
   border: 1px solid #DDDDDD;
-  padding: 10px 10px 38px 10px;
+  padding: 10px 10px 34px 10px;
   margin: 5px 0;
 }
 .ed-degree{
@@ -59,6 +59,10 @@ hr{
   border-bottom: 1px solid #DDDDDD;
   padding: 10px 40px 24px;
   margin: 5px 0 15px;
+}
+.content-certs p{
+  margin: 0;
+  padding: 0;
 }
 .cert-title{
   
@@ -165,7 +169,7 @@ hr{
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .content-education{
-    padding-bottom: 18px;
+    padding-bottom: 14px;
   }
 }
 @media (min-width: 1200px) {

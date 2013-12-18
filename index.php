@@ -89,6 +89,8 @@
             <div class="content-certs col-md-9">
                 <h2>Certifications</h2>
 
+                <p><span class="cert-title">Certified Information Systems Security Professional (CISSP)</span> <span class="cert-id">License #457529</span></p>
+
                 <p><span class="cert-title">Project Management Professional (PMP)</span> <span class="cert-id">License #1557540</span></p>
 
                 <p><span class="cert-title">Agile Certified Practitioner (PMI-ACP)</span> <span class="cert-id">License #1578727</span></p>
