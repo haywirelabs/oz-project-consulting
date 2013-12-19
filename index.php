@@ -24,8 +24,13 @@
 
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="downloads/Osborne_2013v2.docx">Download Word</a></li>
-                    <li><a href="downloads/JoeOsborne-ProjectConsultant.pdf">Download PDF</a></li>
+                  <li class="dropdown">
+                    <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown">Download<span class="caret"></span></a>
+                    <ul class="dropdown-menu" role="menu" aria-labelledby="drop">
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/JoeOsborne-ProjectConsultant.pdf">Word Version</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/Osborne_2013v2.docx">PDF Version</a></li>
+                    </ul>
+                  </li>
                 </ul>
             </div><!--/.nav-collapse -->
         </div>
@@ -231,9 +236,9 @@
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">Geoscout Contract (NSG SI CLIN)</span> <span class="contract-date">07/2004 - Present</span></h4>
+                <h4 data-toggle="collapse" data-target=".geoscout-detail"><span class="contract-name">Geoscout Contract (NSG SI CLIN)</span> <span class="contract-date">07/2004 - Present</span></h4>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">eXploit Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
 
                     <ul>
@@ -245,51 +250,52 @@
 
                         <li>Translating waterfall requirements into Agile user stories to build an initial eXploit user story backlog in JIRA</li>
                     </ul>
-                </div><strong>NIES/NLE Deployment Integration support</strong>
+                </div>
+                <strong class="geoscout-detail collapse in">NIES/NLE Deployment Integration support</strong>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">DOE Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
 
                     <p>Integration deployment project manager for this architecture transition effort moving eight of NGA&#39;s external image exploitation sites located on the Department of Energy (DOE) backbone from the DCM architecture to the WALA architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
                 </div>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">CENTCOM NLE &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
                     <p>This was a relatively small IV&amp;V effort supporting the NGA Expeditionary Architecture (NEA) team as they established an NGA image exploitation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">WALA site cutovers</span> <span class="contract-detail-date">01/2010 - 11/2010</span></h5>
 
                     <p>Integration deployment project manager for this high visibility effort to transition all of NGA&#39;s internal WALA architecture sites old source libraries to the new STIL library. It involved frequent domestic travel and some international travel.</p>
                 </div>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NEA Standup</span> <span class="contract-detail-date">01/2009 - 01/2010</span></h5>
 
                     <p>Integration deployment project manager for the initial effort to test and deploy the NGA Expeditionary Architecture (NEA). Responsible for deployment, system integration and test support of NEA systems to war zone sites at Bagram, Baghdad, and Kabul integrating customer capabilities into those locations and providing interfaces to sister agencies/services. Produced Transition and Test Plan deliverables. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. NEA received the Meritorious Unit Citation. It involved periodic international travel.</p>
                 </div>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">Mission Partner IEC&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
 
                     <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four NGA exploitation sites for a mission partner. It involved periodic domestic and international travel.</p>
                 </div>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NLE FY07 Epoch</span> <span class="contract-detail-date">01/2008 - 07-2008</span></h5>
 
                     <p>System Integration Team Lead for NGA test and deployment of the FY07 Epoch capability upgrade to all of the NGA Library Equivalent (NLE sites). It involved production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NLE NE-95/178</span> <span class="contract-detail-date">05/2006 - 01/2008</span></h5>
 
                     <p>System Integration Team Lead for NGA test and deployment of the NE-95/178 capability upgrade to all of the NGA Library Equivalent (NLE sites). It involved frequent domestic travel and production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
-                <div class="content-contract-detail well well-sm">
+                <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NLE NE-142/149</span> <span class="contract-detail-date">07/2004 - 05/2006</span></h5>
 
                     <p>System Integration Team Lead responsible the initial establishment of both a hardware and software baseline of capabilities at the NGA Library Equivalent (NLE) sites providing test support, transition and test plan deliverables.Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
@@ -297,9 +303,9 @@
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">Integrated Exploitation Capability (IEC) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
+                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated Exploitation Capability (IEC) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
 
-                <div class="content-contract-detail well well-sm">
+                <div id="iec-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
                         <li>Operation Support manager responsible for providing IEC Program Operations and Sustainment (O&amp;S) support to a range of NGA external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, CENTCOM, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
 
@@ -311,9 +317,9 @@
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">Image Data Exploitation System (IDEX) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
+                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data Exploitation System (IDEX) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
 
-                <div class="content-contract-detail well well-sm">
+                <div id="idex-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
                         <li>Provided night shift preventive maintenance and shift lead of 5 technicians.</li>
 
@@ -329,18 +335,18 @@
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">Norwest Mortgage Corporation (Wells Fargo)</span> <span class="contract-date">03/1998 - 08/1999</span></h4>
+                <h4 data-toggle="collapse" data-target="#norwest-detail"><span class="contract-name">Norwest Mortgage Corporation (Wells Fargo)</span> <span class="contract-date">03/1998 - 08/1999</span></h4>
 
-                <div class="content-contract-detail well well-sm">
+                <div id="norwest-detail" class="content-contract-detail well well-sm collapse">
                     <p>I was a Technical Supervisor (Grade I) Weekend Operations Manager for the Frederick Command Center. A combination UNIX (AIX) and IBM MVS operating environment supervising a weekend staff in around the clock banking IT operations consisting of a mix of batch, back-ups, network monitoring and remote online operations of the Minneapolis mainframe.</p>
                 </div>
                 <div><span class="glyphicon glyphicon-asterisk"></span> partially concurrent with IDEX above</div>
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">Nuclear Utility Services Training Corp (NUSTC)</span> <span class="contract-date">03/1986 - 08/1988</span></h4>
+                <h4 data-toggle="collapse" data-target="#nustc-detail"><span class="contract-name">Nuclear Utility Services Training Corp (NUSTC)</span> <span class="contract-date">03/1986 - 08/1988</span></h4>
 
-                <div class="content-contract-detail well well-sm">
+                <div id="nustc-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
                         <li>Program video producer managing a matrixed project specific crew of media professionals for typically three projects at a time. Researched and wrote an initial draft script. Researched and wrote an initial set of hardcopy training materials. Managed the budget and the overall program management.</li>
 
@@ -352,9 +358,9 @@
             </div>
 
             <div class="content-contract">
-                <h4><span class="contract-name">US Navy</span> <span class="contract-date">12/1975 - 03/1986</span></h4>
+                <h4 data-toggle="collapse" data-target="#navy-detail"><span class="contract-name">US Navy</span> <span class="contract-date">12/1975 - 03/1986</span></h4>
 
-                <div class="content-contract-detail well well-sm">
+                <div id="navy-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
                         <li>After initial military and technical training I was deployed to the Philippines supporting the Naval Communication Station at San Miguel. Stationed at Subic supporting the Autodin systems there and at Cubi Point supporting the receiver site Multiplex baseband and Microwave shot to Clark AFB. Additional periodic deployments to other Communication Station facilities at Mt. Santa Rita Relay site, a Transmitter site, and the US Embassy in Manila, all of which were on the island of Luzon.</li>
 
@@ -398,7 +404,7 @@
         </div>
     </div>
 
-<script src="https://code.jquery.com/jquery.js" type="text/javascript">
-</script><script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://code.jquery.com/jquery.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
 </body>
 </html>
