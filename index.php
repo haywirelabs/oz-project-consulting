@@ -27,8 +27,9 @@
                   <li class="dropdown">
                     <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown">Download<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="drop">
-                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/JoeOsborne-ProjectConsultant.pdf">Word Version</a></li>
-                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/Osborne_2013v2.docx">PDF Version</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/Osborne_2013v2.docx">Word Version</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/JoeOsborne-ProjectConsultant.pdf">PDF Version</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/JoeOsborne-ProjectConsultant-Long.pdf">PDF Version (Long)</a></li>
                     </ul>
                   </li>
                 </ul>
