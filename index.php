@@ -52,26 +52,26 @@
             <div class="content-summary">
                 <h2>Experience Summary</h2>
 
-                <p>I have extensive experience as an individual contributor, a team leader, and a project manager. I&#39;ve worked as a System Engineer, a System Integrator, an Operations Manager, a Hardware Engineer, a Systems Administrator, a Hardware technician, a Video Producer and trainer, and a <abbr title="United States">US</abbr> Navy enlisted Chief Electronics Technician ashore, abroad, and afloat as a Division Chief, a Leading Petty Officer (<abbr title="Leading Petty Officer">LPO</abbr>), a Work Center Supervisor, instructor, and a technician.</p>
+                <p>I have extensive experience as an individual contributor, a team leader, and a project manager. I&#39;ve worked as a System Engineer, a System Integrator, an Operations Manager, a Hardware Engineer, a Systems Administrator, a Hardware technician, a Video Producer and trainer, and a <abbr rel="tooltip" title="United States">US</abbr> Navy enlisted Chief Electronics Technician ashore, abroad, and afloat as a Division Chief, a Leading Petty Officer (<abbr rel="tooltip" title="Leading Petty Officer">LPO</abbr>), a Work Center Supervisor, instructor, and a technician.</p>
 
                 <p>I&#39;ve variously worked in a wide range of roles summarized below and detailed under work experience:</p>
 
                 <ul>
-                    <li>As a project manager for <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, <abbr title="Department of Energy">DOE</abbr> transition, <abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers, <abbr title="NGA Expeditionary Architecture">NEA</abbr> stand-up, and Mission partner <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> projects detailed below.</li>
+                    <li>As a project manager for <abbr rel="tooltip" title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, <abbr rel="tooltip" title="Department of Energy">DOE</abbr> transition, <abbr rel="tooltip" title="Washington Area Library Architecture">WALA</abbr> site cutovers, <abbr rel="tooltip" title="NGA Expeditionary Architecture">NEA</abbr> stand-up, and Mission partner <abbr rel="tooltip" title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> projects detailed below.</li>
 
-                    <li>As a team leader for <abbr title="Central Command">CENTCOM</abbr> <abbr title="NGA Library Equivalent">NLE</abbr> &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities <abbr title="Fiscal Year">FY</abbr> 07 Epoch, 95/178, and 142/149.</li>
+                    <li>As a team leader for <abbr rel="tooltip" title="Central Command">CENTCOM</abbr> <abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr> &amp; forward, as well as the <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities <abbr rel="tooltip" title="Fiscal Year">FY</abbr> 07 Epoch, 95/178, and 142/149.</li>
 
-                    <li>As an operations support manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract and the <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> contract.</li>
+                    <li>As an operations support manager on the <abbr rel="tooltip" title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract and the <abbr rel="tooltip" title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> contract.</li>
 
-                    <li>As a deputy engineering manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract.</li>
+                    <li>As a deputy engineering manager on the <abbr rel="tooltip" title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract.</li>
 
-                    <li>As an individual contributor on the <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> contract.</li>
+                    <li>As an individual contributor on the <abbr rel="tooltip" title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> contract.</li>
 
                     <li>As a technical supervisor at Norwest Mortgage</li>
 
-                    <li>As a producer at <abbr title="Nuclear Utility Services">NUS</abbr> Training corporation and curriculum developer and trainer in the <abbr title="United States">US</abbr> Navy</li>
+                    <li>As a producer at <abbr rel="tooltip" title="Nuclear Utility Services">NUS</abbr> Training corporation and curriculum developer and trainer in the <abbr rel="tooltip" title="United States">US</abbr> Navy</li>
 
-                    <li>As a individual contributor, a work center supervisor, a leading petty officer and Chief in the <abbr title="United States">US</abbr> Navy</li>
+                    <li>As a individual contributor, a work center supervisor, a leading petty officer and Chief in the <abbr rel="tooltip" title="United States">US</abbr> Navy</li>
                 </ul>
 
                 <p></p>
@@ -101,12 +101,12 @@
 
                 <p><span class="cert-title">Agile Certified Practitioner (PMI-ACP)</span> <span class="cert-id">License #1578727</span></p>
 
-                <p><span class="cert-title"><abbr title="Information Technology Infrastructure Library">ITIL</abbr> Foundations License</span> <span class="cert-id">#GR750011956OJ</span></p>
+                <p><span class="cert-title"><abbr rel="tooltip" title="Information Technology Infrastructure Library">ITIL</abbr> Foundations License</span> <span class="cert-id">#GR750011956OJ</span></p>
             </div>
 
             <div class="content-clearance col-md-offset-3">
                 <h2>Clearance Level</h2>
-                <p>Active <abbr title="Top Secret - Special Compartmented Information">TS/SCI</abbr> (<abbr title="Single Scope Background Investigation">SSBI</abbr> 9 Nov 11), Other clearances, <abbr title="Occupational Conflict of Interest">OCI</abbr> compliant with <abbr title="Federal Acquisition Regulations">FAR</abbr></p>
+                <p>Active <abbr rel="tooltip" title="Top Secret - Special Compartmented Information">TS/SCI</abbr> (<abbr rel="tooltip" title="Single Scope Background Investigation">SSBI</abbr> 9 Nov 11), Other clearances, <abbr rel="tooltip" title="Occupational Conflict of Interest">OCI</abbr> compliant with <abbr rel="tooltip" title="Federal Acquisition Regulations">FAR</abbr></p>
             </div>
 
 
@@ -127,7 +127,7 @@
 
                     <tbody>
                         <tr>
-                            <td>The <abbr title="Systems Integration">SI</abbr> Organization</td>
+                            <td>The <abbr rel="tooltip" title="Systems Integration">SI</abbr> Organization</td>
 
                             <td>Chantilly, VA</td>
 
@@ -207,7 +207,7 @@
                         </tr>
 
                         <tr>
-                            <td><abbr title="Nuclear Utility Services">NUS</abbr> Training Corporation</td>
+                            <td><abbr rel="tooltip" title="Nuclear Utility Services">NUS</abbr> Training Corporation</td>
 
                             <td>Gaithersburg, MD</td>
 
@@ -217,7 +217,7 @@
                         </tr>
 
                         <tr>
-                            <td><abbr title="United States">US</abbr> Navy</td>
+                            <td><abbr rel="tooltip" title="United States">US</abbr> Navy</td>
 
                             <td>Various</td>
 
@@ -231,84 +231,84 @@
 
             <div class="content-customers">
                 <h3>Customers</h3>
-                  <p><span class="customer-name">National Geospatial-Intelligence Agency (<abbr title="National Geospacial-Intelligence Agency">NGA</abbr>)</span> <span class="customer-date">11/2003 - Present</span></p>
-                  <p><span class="customer-name">National Imagery and Mapping Agency (<abbr title="National Imagery and Mapping Agency">NIMA</abbr>)</span> <span class="customer-date">11/1996 - 11/2003</span></p>
-                  <p><span class="customer-name">National Photographic Interpretation Center (<abbr title="National Photographic Interpretation Center">NPIC</abbr>)</span> <span class="customer-date">03/1989 - 11/1996</span></p>
+                  <p><span class="customer-name">National Geospatial-Intelligence Agency (<abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr>)</span> <span class="customer-date">11/2003 - Present</span></p>
+                  <p><span class="customer-name">National Imagery and Mapping Agency (<abbr rel="tooltip" title="National Imagery and Mapping Agency">NIMA</abbr>)</span> <span class="customer-date">11/1996 - 11/2003</span></p>
+                  <p><span class="customer-name">National Photographic Interpretation Center (<abbr rel="tooltip" title="National Photographic Interpretation Center">NPIC</abbr>)</span> <span class="customer-date">03/1989 - 11/1996</span></p>
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target=".geoscout-detail"><span class="contract-name">Geoscout Contract (<abbr title="National System for Geospatial-Intelligence">NSG</abbr> <abbr title="Systems Integrator">SI</abbr> CLIN)</span> <span class="contract-date">07/2004 - Present</span></h4>
+                <h4 data-toggle="collapse" data-target=".geoscout-detail"><span class="contract-name">Geoscout Contract (<abbr rel="tooltip" title="National System for Geospatial-Intelligence">NSG</abbr> <abbr rel="tooltip" title="Systems Integrator">SI</abbr> CLIN)</span> <span class="contract-date">07/2004 - Present</span></h4>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
+                    <h5><span class="contract-detail-name"><abbr rel="tooltip" title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
 
                     <ul>
-                        <li>Project Manager for the <abbr title="National System for Geospatial-Intelligence">NSG</abbr> <abbr title="Systems Integration">SI</abbr> pre-acquisition support to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program Office, which is the planned follow-on to the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Image Exploitation Capability (<abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) sustainment contract.</li>
+                        <li>Project Manager for the <abbr rel="tooltip" title="National System for Geospatial-Intelligence">NSG</abbr> <abbr rel="tooltip" title="Systems Integration">SI</abbr> pre-acquisition support to the <abbr rel="tooltip" title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program Office, which is the planned follow-on to the <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> Image Exploitation Capability (<abbr rel="tooltip" title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) sustainment contract.</li>
 
-                        <li>Collaborated on an <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> <abbr title="System Requirements Document">SRD</abbr> effort to split requirements into <abbr title="Application Service Provider">ASP</abbr> and <abbr title="Infrastructure Provider">ISP</abbr> components as well as by security domain. <abbr title="Infrastructure Provider">ISP</abbr> requirements have transitioned to the <abbr title="Infrastructure Provider">ISP</abbr>. &nbsp;<abbr title="Application Service Provider">ASP</abbr> requirements are now part of an <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> <abbr title="System Requirements Document">SRD</abbr> and will transition to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> contract awardee.</li>
+                        <li>Collaborated on an <abbr rel="tooltip" title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> <abbr rel="tooltip" title="System Requirements Document">SRD</abbr> effort to split requirements into <abbr rel="tooltip" title="Application Service Provider">ASP</abbr> and <abbr rel="tooltip" title="Infrastructure Provider">ISP</abbr> components as well as by security domain. <abbr rel="tooltip" title="Infrastructure Provider">ISP</abbr> requirements have transitioned to the <abbr rel="tooltip" title="Infrastructure Provider">ISP</abbr>. &nbsp;<abbr rel="tooltip" title="Application Service Provider">ASP</abbr> requirements are now part of an <abbr rel="tooltip" title="NGA contract for future imagery exploitation solutions">eXploit</abbr> <abbr rel="tooltip" title="System Requirements Document">SRD</abbr> and will transition to the <abbr rel="tooltip" title="NGA contract for future imagery exploitation solutions">eXploit</abbr> contract awardee.</li>
 
-                        <li>Actively re-defining Agile systems engineering processes and tools in support of anticipated <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Agile development acquisition effort.</li>
+                        <li>Actively re-defining Agile systems engineering processes and tools in support of anticipated <abbr rel="tooltip" title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Agile development acquisition effort.</li>
 
-                        <li>Translating waterfall requirements into Agile user stories to build an initial <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> user story backlog in Jira</li>
+                        <li>Translating waterfall requirements into Agile user stories to build an initial <abbr rel="tooltip" title="NGA contract for future imagery exploitation solutions">eXploit</abbr> user story backlog in Jira</li>
                     </ul>
                 </div>
-                <strong class="geoscout-detail collapse in">NIES/<abbr title="NGA Library Equivalent">NLE</abbr> Deployment Integration support</strong>
+                <strong class="geoscout-detail collapse in">NIES/<abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr> Deployment Integration support</strong>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="Department of Energy">DOE</abbr> Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
+                    <h5><span class="contract-detail-name"><abbr rel="tooltip" title="Department of Energy">DOE</abbr> Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
 
-                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image exploitation sites located on the Department of Energy (<abbr title="Department of Energy">DOE</abbr>) backbone from the <abbr title="Data Center Migration">DCM</abbr> architecture to the <abbr title="Washington Area Library Architecture">WALA</abbr> architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
+                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image exploitation sites located on the Department of Energy (<abbr rel="tooltip" title="Department of Energy">DOE</abbr>) backbone from the <abbr rel="tooltip" title="Data Center Migration">DCM</abbr> architecture to the <abbr rel="tooltip" title="Washington Area Library Architecture">WALA</abbr> architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="Central Command">CENTCOM</abbr> <abbr title="NGA Library Equivalent">NLE</abbr> &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
+                    <h5><span class="contract-detail-name"><abbr rel="tooltip" title="Central Command">CENTCOM</abbr> <abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr> &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
-                    <p>This was a relatively small <abbr title="Independent Verification and Validation">IV&amp;V</abbr> effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (<abbr title="NGA Expeditionary Architecture">NEA</abbr>) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image exploitation capability on the Secret/Collateral domain for <abbr title="Central Command">CENTCOM</abbr> domestically and forward deployed. It involved periodic domestic and international travel.</p>
+                    <p>This was a relatively small <abbr rel="tooltip" title="Independent Verification and Validation">IV&amp;V</abbr> effort supporting the <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr rel="tooltip" title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (<abbr rel="tooltip" title="NGA Expeditionary Architecture">NEA</abbr>) team as they established an <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> image exploitation capability on the Secret/Collateral domain for <abbr rel="tooltip" title="Central Command">CENTCOM</abbr> domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers</span> <span class="contract-detail-date">01/2010 - 11/2010</span></h5>
+                    <h5><span class="contract-detail-name"><abbr rel="tooltip" title="Washington Area Library Architecture">WALA</abbr> site cutovers</span> <span class="contract-detail-date">01/2010 - 11/2010</span></h5>
 
-                    <p>Integration deployment project manager for this high visibility effort to transition all of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s internal <abbr title="Washington Area Library Architecture">WALA</abbr> architecture sites old source libraries to the new <abbr title="St Louis Information Library">STIL</abbr> library. It involved frequent domestic travel and some international travel.</p>
+                    <p>Integration deployment project manager for this high visibility effort to transition all of <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s internal <abbr rel="tooltip" title="Washington Area Library Architecture">WALA</abbr> architecture sites old source libraries to the new <abbr rel="tooltip" title="St Louis Information Library">STIL</abbr> library. It involved frequent domestic travel and some international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="NGA Expeditionary Architecture">NEA</abbr> Standup</span> <span class="contract-detail-date">01/2009 - 01/2010</span></h5>
+                    <h5><span class="contract-detail-name"><abbr rel="tooltip" title="NGA Expeditionary Architecture">NEA</abbr> Standup</span> <span class="contract-detail-date">01/2009 - 01/2010</span></h5>
 
-                    <p>Integration deployment project manager for the initial effort to test and deploy the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (<abbr title="NGA Expeditionary Architecture">NEA</abbr>). Responsible for deployment, system integration and test support of <abbr title="NGA Expeditionary Architecture">NEA</abbr> systems to war zone sites at Bagram, Baghdad, and Kabul integrating customer capabilities into those locations and providing interfaces to sister agencies/services. Produced Transition and Test Plan deliverables. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. <abbr title="NGA Expeditionary Architecture">NEA</abbr> received the Meritorious Unit Citation. It involved periodic international travel.</p>
+                    <p>Integration deployment project manager for the initial effort to test and deploy the <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr rel="tooltip" title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (<abbr rel="tooltip" title="NGA Expeditionary Architecture">NEA</abbr>). Responsible for deployment, system integration and test support of <abbr rel="tooltip" title="NGA Expeditionary Architecture">NEA</abbr> systems to war zone sites at Bagram, Baghdad, and Kabul integrating customer capabilities into those locations and providing interfaces to sister agencies/services. Produced Transition and Test Plan deliverables. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. <abbr rel="tooltip" title="NGA Expeditionary Architecture">NEA</abbr> received the Meritorious Unit Citation. It involved periodic international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name">Mission Partner <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
+                    <h5><span class="contract-detail-name">Mission Partner <abbr rel="tooltip" title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
 
-                    <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> exploitation sites for a mission partner. It involved periodic domestic and international travel.</p>
+                    <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> exploitation sites for a mission partner. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="NGA Library Equivalent">NLE</abbr> <abbr title="Fiscal Year">FY</abbr>07 Epoch</span> <span class="contract-detail-date">01/2008 - 07-2008</span></h5>
+                    <h5><span class="contract-detail-name"><abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr> <abbr rel="tooltip" title="Fiscal Year">FY</abbr>07 Epoch</span> <span class="contract-detail-date">01/2008 - 07-2008</span></h5>
 
-                    <p>System Integration Team Lead for <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> test and deployment of the <abbr title="Fiscal Year">FY</abbr>07 Epoch capability upgrade to all of the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (<abbr title="NGA Library Equivalent">NLE</abbr> sites). It involved production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
+                    <p>System Integration Team Lead for <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> test and deployment of the <abbr rel="tooltip" title="Fiscal Year">FY</abbr>07 Epoch capability upgrade to all of the <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (<abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr> sites). It involved production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="NGA Library Equivalent">NLE</abbr> NE-95/178</span> <span class="contract-detail-date">05/2006 - 01/2008</span></h5>
+                    <h5><span class="contract-detail-name"><abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr> NE-95/178</span> <span class="contract-detail-date">05/2006 - 01/2008</span></h5>
 
-                    <p>System Integration Team Lead for <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> test and deployment of the NE-95/178 capability upgrade to all of the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (<abbr title="NGA Library Equivalent">NLE</abbr> sites). It involved frequent domestic travel and production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
+                    <p>System Integration Team Lead for <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> test and deployment of the NE-95/178 capability upgrade to all of the <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (<abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr> sites). It involved frequent domestic travel and production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="NGA Library Equivalent">NLE</abbr> NE-142/149</span> <span class="contract-detail-date">07/2004 - 05/2006</span></h5>
+                    <h5><span class="contract-detail-name"><abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr> NE-142/149</span> <span class="contract-detail-date">07/2004 - 05/2006</span></h5>
 
-                    <p>System Integration Team Lead responsible the initial establishment of both a hardware and software baseline of capabilities at the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (<abbr title="NGA Library Equivalent">NLE</abbr>) sites providing test support, transition and test plan deliverables.Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
+                    <p>System Integration Team Lead responsible the initial establishment of both a hardware and software baseline of capabilities at the <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (<abbr rel="tooltip" title="NGA Library Equivalent">NLE</abbr>) sites providing test support, transition and test plan deliverables.Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated exploitation Capability (<abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
+                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated exploitation Capability (<abbr rel="tooltip" title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
 
                 <div id="iec-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
-                        <li>Operation Support manager responsible for providing <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> Program Operations and Sustainment (O&amp;S) support to a range of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, <abbr title="Central Command">CENTCOM</abbr>, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate <abbr title="Infrastructure Provider">ISP</abbr> sustainment contract. It involved periodic domestic travel.</li>
+                        <li>Operation Support manager responsible for providing <abbr rel="tooltip" title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> Program Operations and Sustainment (O&amp;S) support to a range of <abbr rel="tooltip" title="National Geospacial-Intelligence Agency">NGA</abbr> external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, <abbr rel="tooltip" title="Central Command">CENTCOM</abbr>, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate <abbr rel="tooltip" title="Infrastructure Provider">ISP</abbr> sustainment contract. It involved periodic domestic travel.</li>
 
                         <li>Deputy Engineering Manager responsible for systems full life-cycle support of a UNIX (Solaris &amp; IRIX) server and Windows 2000 client system coordinating the efforts of multiple contractor factory and remote site deployed engineers in a common effort of hardware, software, and systems upgrade and their ongoing operations and maintenance. Performed requirements analysis and development including custom (security requirements related) software development to a pre-packaged COTS/GOTS product baseline, hardware deployment, engineering staffing, RFC analysis, ECP generation, integration and test, requirements sell-off, CDRL&#39;s, and frequent customer interaction and presentations.</li>
 
@@ -318,7 +318,7 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data exploitation System (<abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr>) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
+                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data exploitation System (<abbr rel="tooltip" title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr>) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
 
                 <div id="idex-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
@@ -328,9 +328,9 @@
 
                         <li>Performed hardware, software, and systems operations and maintenance in a predominately VAX VMS server and custom software and hardware environment.</li>
 
-                        <li>Managed the operations and maintenance support crew of 5 technicians and engineers at both the CIA and DIA <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> sites. Provided hardware, software and systems engineering site services as well as day-to-day (5 X 12) operations. Periodic domestic travel.</li>
+                        <li>Managed the operations and maintenance support crew of 5 technicians and engineers at both the CIA and DIA <abbr rel="tooltip" title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> sites. Provided hardware, software and systems engineering site services as well as day-to-day (5 X 12) operations. Periodic domestic travel.</li>
 
-                        <li>Performed Systems Engineering support on the <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> program for <abbr title="National Imagery and Mapping Agency">NIMA</abbr> at the Washington Navy Yard. Produced a range of CDRL&#39;s and provided impacts to RFC&#39;s. Predominately involved in upgrading existing DEC Alpha servers and expanding existing Sybase image database beyond its constraints. Also, routinely delivered <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> systems software upgrades IAW contract.</li>
+                        <li>Performed Systems Engineering support on the <abbr rel="tooltip" title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> program for <abbr rel="tooltip" title="National Imagery and Mapping Agency">NIMA</abbr> at the Washington Navy Yard. Produced a range of CDRL&#39;s and provided impacts to RFC&#39;s. Predominately involved in upgrading existing DEC Alpha servers and expanding existing Sybase image database beyond its constraints. Also, routinely delivered <abbr rel="tooltip" title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> systems software upgrades IAW contract.</li>
                     </ul>
                 </div>
             </div>
@@ -341,11 +341,11 @@
                 <div id="norwest-detail" class="content-contract-detail well well-sm collapse">
                     <p>I was a Technical Supervisor (Grade I) Weekend Operations Manager for the Frederick Command Center. A combination UNIX (AIX) and IBM MVS operating environment supervising a weekend staff in around the clock banking IT operations consisting of a mix of batch, back-ups, network monitoring and remote online operations of the Minneapolis mainframe.</p>
                 </div>
-                <div><span class="glyphicon glyphicon-asterisk"></span> partially concurrent with <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> above</div>
+                <div><span class="glyphicon glyphicon-asterisk"></span> partially concurrent with <abbr rel="tooltip" title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> above</div>
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#nustc-detail"><span class="contract-name">Nuclear Utility Services Training Corp (<abbr title="Nuclear Utility Services Training Corp">NUSTC</abbr>)</span> <span class="contract-date">03/1986 - 08/1988</span></h4>
+                <h4 data-toggle="collapse" data-target="#nustc-detail"><span class="contract-name">Nuclear Utility Services Training Corp (<abbr rel="tooltip" title="Nuclear Utility Services Training Corp">NUSTC</abbr>)</span> <span class="contract-date">03/1986 - 08/1988</span></h4>
 
                 <div id="nustc-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
@@ -359,15 +359,15 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#navy-detail"><span class="contract-name"><abbr title="United States">US</abbr> Navy</span> <span class="contract-date">12/1975 - 03/1986</span></h4>
+                <h4 data-toggle="collapse" data-target="#navy-detail"><span class="contract-name"><abbr rel="tooltip" title="United States">US</abbr> Navy</span> <span class="contract-date">12/1975 - 03/1986</span></h4>
 
                 <div id="navy-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
-                        <li>After initial military and technical training I was deployed to the Philippines supporting the Naval Communication Station at San Miguel. Stationed at Subic supporting the Autodin systems there and at Cubi Point supporting the receiver site Multiplex baseband and Microwave shot to Clark AFB. Additional periodic deployments to other Communication Station facilities at Mt. Santa Rita Relay site, a Transmitter site, and the <abbr title="United States">US</abbr> Embassy in Manila, all of which were on the island of Luzon.</li>
+                        <li>After initial military and technical training I was deployed to the Philippines supporting the Naval Communication Station at San Miguel. Stationed at Subic supporting the Autodin systems there and at Cubi Point supporting the receiver site Multiplex baseband and Microwave shot to Clark AFB. Additional periodic deployments to other Communication Station facilities at Mt. Santa Rita Relay site, a Transmitter site, and the <abbr rel="tooltip" title="United States">US</abbr> Embassy in Manila, all of which were on the island of Luzon.</li>
 
-                        <li>Returning to the <abbr title="United States">US</abbr>, I filled an instructor duty billet which consisted of extensive curriculum re-development moving from analog electronics and systems to digital electronics and systems. Also, for a long period I was the remedial education supervisor working closely with students who were struggling academically.</li>
+                        <li>Returning to the <abbr rel="tooltip" title="United States">US</abbr>, I filled an instructor duty billet which consisted of extensive curriculum re-development moving from analog electronics and systems to digital electronics and systems. Also, for a long period I was the remedial education supervisor working closely with students who were struggling academically.</li>
 
-                        <li>My next operational assignment after FFG systems training was a plank owner on the still-building USS Curts FFG-38 (which just decommissioned in Jan &#39;13). Initially I was the <abbr title="Leading Petty Officer">LPO</abbr> and was promoted to Chief on board. Took the new ship through sea trials and certification tests.</li>
+                        <li>My next operational assignment after FFG systems training was a plank owner on the still-building USS Curts FFG-38 (which just decommissioned in Jan &#39;13). Initially I was the <abbr rel="tooltip" title="Leading Petty Officer">LPO</abbr> and was promoted to Chief on board. Took the new ship through sea trials and certification tests.</li>
 
                         <li>My last operational assignment was as part of MOTU-11 (Mobile Technical Unit 11) in Long Beach, CA which consisted of a staff of technical SME&#39;s (subject matter experts) who would respond to fleet technical needs, training and frequently CASREPT&#39;s.</li>
 
@@ -407,5 +407,10 @@
 
 <script src="https://code.jquery.com/jquery.js" type="text/javascript"></script>
 <script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function () {
+        $("[rel='tooltip']").tooltip();
+    });
+</script>
 </body>
 </html>
