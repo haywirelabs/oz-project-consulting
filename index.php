@@ -249,7 +249,7 @@
 
                         <li>Actively re-defining Agile systems engineering processes and tools in support of anticipated <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Agile development acquisition effort.</li>
 
-                        <li>Translating waterfall requirements into Agile user stories to build an initial <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> user story backlog in JIRA</li>
+                        <li>Translating waterfall requirements into Agile user stories to build an initial <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> user story backlog in Jira</li>
                     </ul>
                 </div>
                 <strong class="geoscout-detail collapse in">NIES/<abbr title="NGA Library Equivalent">NLE</abbr> Deployment Integration support</strong>
@@ -257,7 +257,7 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name"><abbr title="Department of Energy">DOE</abbr> Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
 
-                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites located on the Department of Energy (<abbr title="Department of Energy">DOE</abbr>) backbone from the DCM architecture to the <abbr title="Washington Area Library Architecture">WALA</abbr> architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
+                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites located on the Department of Energy (<abbr title="Department of Energy">DOE</abbr>) backbone from the <abbr title="Data Center Migration">DCM</abbr> architecture to the <abbr title="Washington Area Library Architecture">WALA</abbr> architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
