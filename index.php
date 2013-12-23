@@ -263,13 +263,13 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name"><abbr title="Central Command">CENTCOM</abbr> <abbr title="NGA Library Equivalent">NLE</abbr> &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
-                    <p>This was a relatively small IV&amp;V effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation capability on the Secret/Collateral domain for <abbr title="Central Command">CENTCOM</abbr> domestically and forward deployed. It involved periodic domestic and international travel.</p>
+                    <p>This was a relatively small <abbr title="Independent Verification and Validation">IV&amp;V</abbr> effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation capability on the Secret/Collateral domain for <abbr title="Central Command">CENTCOM</abbr> domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name"><abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers</span> <span class="contract-detail-date">01/2010 - 11/2010</span></h5>
 
-                    <p>Integration deployment project manager for this high visibility effort to transition all of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s internal <abbr title="Washington Area Library Architecture">WALA</abbr> architecture sites old source libraries to the new STIL library. It involved frequent domestic travel and some international travel.</p>
+                    <p>Integration deployment project manager for this high visibility effort to transition all of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s internal <abbr title="Washington Area Library Architecture">WALA</abbr> architecture sites old source libraries to the new <abbr title="St Louis Information Library">STIL</abbr> library. It involved frequent domestic travel and some international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
