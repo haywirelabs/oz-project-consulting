@@ -57,7 +57,7 @@
                 <p>I&#39;ve variously worked in a wide range of roles summarized below and detailed under work experience:</p>
 
                 <ul>
-                    <li>As a project manager for <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, <abbr title="Department of Energy">DOE</abbr> transition, WALA site cutovers, NEA stand-up, and Mission partner IEC projects detailed below.</li>
+                    <li>As a project manager for <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, <abbr title="Department of Energy">DOE</abbr> transition, <abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers, NEA stand-up, and Mission partner IEC projects detailed below.</li>
 
                     <li>As a team leader for CENTCOM NLE &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
 
@@ -257,7 +257,7 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name"><abbr title="Department of Energy">DOE</abbr> Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
 
-                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites located on the Department of Energy (<abbr title="Department of Energy">DOE</abbr>) backbone from the DCM architecture to the WALA architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
+                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites located on the Department of Energy (<abbr title="Department of Energy">DOE</abbr>) backbone from the DCM architecture to the <abbr title="Washington Area Library Architecture">WALA</abbr> architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
@@ -267,9 +267,9 @@
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name">WALA site cutovers</span> <span class="contract-detail-date">01/2010 - 11/2010</span></h5>
+                    <h5><span class="contract-detail-name"><abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers</span> <span class="contract-detail-date">01/2010 - 11/2010</span></h5>
 
-                    <p>Integration deployment project manager for this high visibility effort to transition all of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s internal WALA architecture sites old source libraries to the new STIL library. It involved frequent domestic travel and some international travel.</p>
+                    <p>Integration deployment project manager for this high visibility effort to transition all of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s internal <abbr title="Washington Area Library Architecture">WALA</abbr> architecture sites old source libraries to the new STIL library. It involved frequent domestic travel and some international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
