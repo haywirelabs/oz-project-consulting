@@ -44,7 +44,7 @@
                 <p class="lead">Project Consultant</p>
                 <ul class="list-inline">
                   <li>Phone: 240-285-9246</li>
-                  <li><a href="mailto:joe.osborne@oz-project-consulting.com">joe.osborne@oz-project-consulting.com</a></li>
+                  <li><a href="mailto:JosephOsborne@Outlook.com">JosephOsborne@Outlook.com</a></li>
                   <li><a href="http://linkedin.com/in/josephmosborne/" target="_blank">http://linkedin.com/in/josephmosborne</a></li>
                 </ul>
             </div>
