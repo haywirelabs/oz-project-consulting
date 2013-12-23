@@ -69,7 +69,7 @@
 
                     <li>As a technical supervisor at Norwest Mortgage</li>
 
-                    <li>As a producer at NUS Training corporation and curriculum developer and trainer in the US Navy</li>
+                    <li>As a producer at <abbr title="Nuclear Utility Services">NUS</abbr> Training corporation and curriculum developer and trainer in the US Navy</li>
 
                     <li>As a individual contributor, a work center supervisor, a leading petty officer and Chief in the US Navy</li>
                 </ul>
@@ -101,7 +101,7 @@
 
                 <p><span class="cert-title">Agile Certified Practitioner (PMI-ACP)</span> <span class="cert-id">License #1578727</span></p>
 
-                <p><span class="cert-title">ITIL Foundations License</span> <span class="cert-id">#GR750011956OJ</span></p>
+                <p><span class="cert-title"><abbr title="Information Technology Infrastructure Library">ITIL</abbr> Foundations License</span> <span class="cert-id">#GR750011956OJ</span></p>
             </div>
 
             <div class="content-clearance col-md-offset-3">
@@ -207,7 +207,7 @@
                         </tr>
 
                         <tr>
-                            <td>NUS Training Corporation</td>
+                            <td><abbr title="Nuclear Utility Services">NUS</abbr> Training Corporation</td>
 
                             <td>Gaithersburg, MD</td>
 
@@ -345,7 +345,7 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#nustc-detail"><span class="contract-name">Nuclear Utility Services Training Corp (NUSTC)</span> <span class="contract-date">03/1986 - 08/1988</span></h4>
+                <h4 data-toggle="collapse" data-target="#nustc-detail"><span class="contract-name">Nuclear Utility Services Training Corp (<abbr title="Nuclear Utility Services Training Corp">NUSTC</abbr>)</span> <span class="contract-date">03/1986 - 08/1988</span></h4>
 
                 <div id="nustc-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
