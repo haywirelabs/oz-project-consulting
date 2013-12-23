@@ -257,13 +257,13 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name"><abbr title="Department of Energy">DOE</abbr> Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
 
-                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites located on the Department of Energy (<abbr title="Department of Energy">DOE</abbr>) backbone from the <abbr title="Data Center Migration">DCM</abbr> architecture to the <abbr title="Washington Area Library Architecture">WALA</abbr> architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
+                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image exploitation sites located on the Department of Energy (<abbr title="Department of Energy">DOE</abbr>) backbone from the <abbr title="Data Center Migration">DCM</abbr> architecture to the <abbr title="Washington Area Library Architecture">WALA</abbr> architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name"><abbr title="Central Command">CENTCOM</abbr> <abbr title="NGA Library Equivalent">NLE</abbr> &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
-                    <p>This was a relatively small <abbr title="Independent Verification and Validation">IV&amp;V</abbr> effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (<abbr title="NGA Expeditionary Architecture">NEA</abbr>) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation capability on the Secret/Collateral domain for <abbr title="Central Command">CENTCOM</abbr> domestically and forward deployed. It involved periodic domestic and international travel.</p>
+                    <p>This was a relatively small <abbr title="Independent Verification and Validation">IV&amp;V</abbr> effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (<abbr title="NGA Expeditionary Architecture">NEA</abbr>) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image exploitation capability on the Secret/Collateral domain for <abbr title="Central Command">CENTCOM</abbr> domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
@@ -281,7 +281,7 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">Mission Partner <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
 
-                    <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites for a mission partner. It involved periodic domestic and international travel.</p>
+                    <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> exploitation sites for a mission partner. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
@@ -304,7 +304,7 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation Capability (<abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
+                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated exploitation Capability (<abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
 
                 <div id="iec-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
@@ -318,7 +318,7 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation System (<abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr>) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
+                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data exploitation System (<abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr>) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
 
                 <div id="idex-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
@@ -353,7 +353,7 @@
 
                         <li>Notably, changed the programming formats from exclusively one-hour programs of technical content to those of shorter duration resulting in higher profits for the same programming.</li>
 
-                        <li>Developed programming for non-traditional markets, which have opened up previously un-<abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ed segments. Periodic domestic travel.</li>
+                        <li>Developed programming for non-traditional markets, which have opened up previously un-exploited segments. Periodic domestic travel.</li>
                     </ul>
                 </div>
             </div>
