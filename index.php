@@ -106,7 +106,7 @@
 
             <div class="content-clearance col-md-offset-3">
                 <h2>Clearance Level</h2>
-                <p>Active <abbr title="Top Secret - Special Compartmented Information">TS/SCI</abbr> (<abbr title="Single Scope Background Investigation">SSBI</abbr> 9 Nov 11), Other clearances, OCI compliant with FAR</p>
+                <p>Active <abbr title="Top Secret - Special Compartmented Information">TS/SCI</abbr> (<abbr title="Single Scope Background Investigation">SSBI</abbr> 9 Nov 11), Other clearances, <abbr title="Occupational Conflict of Interest">OCI</abbr> compliant with FAR</p>
             </div>
 
 
