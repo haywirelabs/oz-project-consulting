@@ -127,7 +127,7 @@
 
                     <tbody>
                         <tr>
-                            <td>The SI Organization</td>
+                            <td>The <abbr title="Systems Integration">SI</abbr> Organization</td>
 
                             <td>Chantilly, VA</td>
 
@@ -237,13 +237,13 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target=".geoscout-detail"><span class="contract-name">Geoscout Contract (NSG SI CLIN)</span> <span class="contract-date">07/2004 - Present</span></h4>
+                <h4 data-toggle="collapse" data-target=".geoscout-detail"><span class="contract-name">Geoscout Contract (<abbr title="National System for Geospatial-Intelligence">NSG</abbr> <abbr title="Systems Integrator">SI</abbr> CLIN)</span> <span class="contract-date">07/2004 - Present</span></h4>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name"><abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
 
                     <ul>
-                        <li>Project Manager for the NSG SI pre-acquisition support to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program Office, which is the planned follow-on to the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Image Exploitation Capability (<abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) sustainment contract.</li>
+                        <li>Project Manager for the <abbr title="National System for Geospatial-Intelligence">NSG</abbr> <abbr title="Systems Integration">SI</abbr> pre-acquisition support to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program Office, which is the planned follow-on to the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Image Exploitation Capability (<abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) sustainment contract.</li>
 
                         <li>Collaborated on an <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> SRD effort to split requirements into ASP and ISP components as well as by security domain. ISP requirements have transitioned to the ISP. ASP requirements are now part of an <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> SRD and will transition to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> contract awardee.</li>
 
