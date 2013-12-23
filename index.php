@@ -61,11 +61,11 @@
 
                     <li>As a team leader for <abbr title="Central Command">CENTCOM</abbr> <abbr title="NGA Library Equivalent">NLE</abbr> &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities <abbr title="Fiscal Year">FY</abbr> 07 Epoch, 95/178, and 142/149.</li>
 
-                    <li>As an operations support manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract and the IDEX contract.</li>
+                    <li>As an operations support manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract and the <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> contract.</li>
 
                     <li>As a deputy engineering manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract.</li>
 
-                    <li>As an individual contributor on the IDEX contract.</li>
+                    <li>As an individual contributor on the <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> contract.</li>
 
                     <li>As a technical supervisor at Norwest Mortgage</li>
 
@@ -318,7 +318,7 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation System (IDEX) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
+                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation System (<abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr>) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
 
                 <div id="idex-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
@@ -328,9 +328,9 @@
 
                         <li>Performed hardware, software, and systems operations and maintenance in a predominately VAX VMS server and custom software and hardware environment.</li>
 
-                        <li>Managed the operations and maintenance support crew of 5 technicians and engineers at both the CIA and DIA IDEX sites. Provided hardware, software and systems engineering site services as well as day-to-day (5 X 12) operations. Periodic domestic travel.</li>
+                        <li>Managed the operations and maintenance support crew of 5 technicians and engineers at both the CIA and DIA <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> sites. Provided hardware, software and systems engineering site services as well as day-to-day (5 X 12) operations. Periodic domestic travel.</li>
 
-                        <li>Performed Systems Engineering support on the IDEX program for NIMA at the Washington Navy Yard. Produced a range of CDRL&#39;s and provided impacts to RFC&#39;s. Predominately involved in upgrading existing DEC Alpha servers and expanding existing Sybase image database beyond its constraints. Also, routinely delivered IDEX systems software upgrades IAW contract.</li>
+                        <li>Performed Systems Engineering support on the <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> program for NIMA at the Washington Navy Yard. Produced a range of CDRL&#39;s and provided impacts to RFC&#39;s. Predominately involved in upgrading existing DEC Alpha servers and expanding existing Sybase image database beyond its constraints. Also, routinely delivered <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> systems software upgrades IAW contract.</li>
                     </ul>
                 </div>
             </div>
@@ -341,7 +341,7 @@
                 <div id="norwest-detail" class="content-contract-detail well well-sm collapse">
                     <p>I was a Technical Supervisor (Grade I) Weekend Operations Manager for the Frederick Command Center. A combination UNIX (AIX) and IBM MVS operating environment supervising a weekend staff in around the clock banking IT operations consisting of a mix of batch, back-ups, network monitoring and remote online operations of the Minneapolis mainframe.</p>
                 </div>
-                <div><span class="glyphicon glyphicon-asterisk"></span> partially concurrent with IDEX above</div>
+                <div><span class="glyphicon glyphicon-asterisk"></span> partially concurrent with <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> above</div>
             </div>
 
             <div class="content-contract">
