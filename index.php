@@ -59,7 +59,7 @@
                 <ul>
                     <li>As a project manager for <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, <abbr title="Department of Energy">DOE</abbr> transition, <abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers, NEA stand-up, and Mission partner <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> projects detailed below.</li>
 
-                    <li>As a team leader for CENTCOM NLE &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
+                    <li>As a team leader for <abbr title="Central Command">CENTCOM</abbr> NLE &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
 
                     <li>As an operations support manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract and the IDEX contract.</li>
 
@@ -261,9 +261,9 @@
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name">CENTCOM NLE &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
+                    <h5><span class="contract-detail-name"><abbr title="Central Command">CENTCOM</abbr> NLE &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
-                    <p>This was a relatively small IV&amp;V effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
+                    <p>This was a relatively small IV&amp;V effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation capability on the Secret/Collateral domain for <abbr title="Central Command">CENTCOM</abbr> domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
@@ -308,7 +308,7 @@
 
                 <div id="iec-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
-                        <li>Operation Support manager responsible for providing <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> Program Operations and Sustainment (O&amp;S) support to a range of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, CENTCOM, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
+                        <li>Operation Support manager responsible for providing <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> Program Operations and Sustainment (O&amp;S) support to a range of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, <abbr title="Central Command">CENTCOM</abbr>, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
 
                         <li>Deputy Engineering Manager responsible for systems full life-cycle support of a UNIX (Solaris &amp; IRIX) server and Windows 2000 client system coordinating the efforts of multiple contractor factory and remote site deployed engineers in a common effort of hardware, software, and systems upgrade and their ongoing operations and maintenance. Performed requirements analysis and development including custom (security requirements related) software development to a pre-packaged COTS/GOTS product baseline, hardware deployment, engineering staffing, RFC analysis, ECP generation, integration and test, requirements sell-off, CDRL&#39;s, and frequent customer interaction and presentations.</li>
 
