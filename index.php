@@ -263,7 +263,7 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">CENTCOM NLE &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
-                    <p>This was a relatively small IV&amp;V effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Expeditionary Architecture (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
+                    <p>This was a relatively small IV&amp;V effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
@@ -275,7 +275,7 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NEA Standup</span> <span class="contract-detail-date">01/2009 - 01/2010</span></h5>
 
-                    <p>Integration deployment project manager for the initial effort to test and deploy the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Expeditionary Architecture (NEA). Responsible for deployment, system integration and test support of NEA systems to war zone sites at Bagram, Baghdad, and Kabul integrating customer capabilities into those locations and providing interfaces to sister agencies/services. Produced Transition and Test Plan deliverables. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. NEA received the Meritorious Unit Citation. It involved periodic international travel.</p>
+                    <p>Integration deployment project manager for the initial effort to test and deploy the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NEA – NGA Expeditionary Architecture – forward warzone deployed solution">Expeditionary Architecture</abbr> (NEA). Responsible for deployment, system integration and test support of NEA systems to war zone sites at Bagram, Baghdad, and Kabul integrating customer capabilities into those locations and providing interfaces to sister agencies/services. Produced Transition and Test Plan deliverables. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. NEA received the Meritorious Unit Citation. It involved periodic international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
