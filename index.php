@@ -106,7 +106,7 @@
 
             <div class="content-clearance col-md-offset-3">
                 <h2>Clearance Level</h2>
-                <p>Active TS/SCI (SSBI 9 Nov 11), Other clearances, OCI compliant with FAR</p>
+                <p>Active <abbr title="Top Secret - Special Compartmented Information">TS/SCI</abbr> (SSBI 9 Nov 11), Other clearances, OCI compliant with FAR</p>
             </div>
 
 
