@@ -57,7 +57,7 @@
                 <p>I&#39;ve variously worked in a wide range of roles summarized below and detailed under work experience:</p>
 
                 <ul>
-                    <li>As a project manager for eXploit pre-acquisition, DOE transition, WALA site cutovers, NEA stand-up, and Mission partner IEC projects detailed below.</li>
+                    <li>As a project manager for <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, DOE transition, WALA site cutovers, NEA stand-up, and Mission partner IEC projects detailed below.</li>
 
                     <li>As a team leader for CENTCOM NLE &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
 
@@ -240,16 +240,16 @@
                 <h4 data-toggle="collapse" data-target=".geoscout-detail"><span class="contract-name">Geoscout Contract (NSG SI CLIN)</span> <span class="contract-date">07/2004 - Present</span></h4>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name">eXploit Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
+                    <h5><span class="contract-detail-name"><abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
 
                     <ul>
-                        <li>Project Manager for the NSG SI pre-acquisition support to the eXploit Program Office, which is the planned follow-on to the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Image Exploitation Capability (IEC) sustainment contract.</li>
+                        <li>Project Manager for the NSG SI pre-acquisition support to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program Office, which is the planned follow-on to the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation Capability (IEC) sustainment contract.</li>
 
-                        <li>Collaborated on an IEC SRD effort to split requirements into ASP and ISP components as well as by security domain. ISP requirements have transitioned to the ISP. ASP requirements are now part of an eXploit SRD and will transition to the eXploit contract awardee.</li>
+                        <li>Collaborated on an IEC SRD effort to split requirements into ASP and ISP components as well as by security domain. ISP requirements have transitioned to the ISP. ASP requirements are now part of an <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> SRD and will transition to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> contract awardee.</li>
 
-                        <li>Actively re-defining Agile systems engineering processes and tools in support of anticipated eXploit Agile development acquisition effort.</li>
+                        <li>Actively re-defining Agile systems engineering processes and tools in support of anticipated <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Agile development acquisition effort.</li>
 
-                        <li>Translating waterfall requirements into Agile user stories to build an initial eXploit user story backlog in JIRA</li>
+                        <li>Translating waterfall requirements into Agile user stories to build an initial <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> user story backlog in JIRA</li>
                     </ul>
                 </div>
                 <strong class="geoscout-detail collapse in">NIES/NLE Deployment Integration support</strong>
@@ -257,13 +257,13 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">DOE Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
 
-                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image exploitation sites located on the Department of Energy (DOE) backbone from the DCM architecture to the WALA architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
+                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites located on the Department of Energy (DOE) backbone from the DCM architecture to the WALA architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">CENTCOM NLE &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
-                    <p>This was a relatively small IV&amp;V effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Expeditionary Architecture (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image exploitation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
+                    <p>This was a relatively small IV&amp;V effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Expeditionary Architecture (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
@@ -281,7 +281,7 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">Mission Partner IEC&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
 
-                    <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> exploitation sites for a mission partner. It involved periodic domestic and international travel.</p>
+                    <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites for a mission partner. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
@@ -304,7 +304,7 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated Exploitation Capability (IEC) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
+                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation Capability (IEC) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
 
                 <div id="iec-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
@@ -318,7 +318,7 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data Exploitation System (IDEX) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
+                <h4 data-toggle="collapse" data-target="#idex-detail"><span class="contract-name">Image Data <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation System (IDEX) Development and Sustainment</span> <span class="contract-date">03/1989 - 08/2001</span></h4>
 
                 <div id="idex-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
@@ -353,7 +353,7 @@
 
                         <li>Notably, changed the programming formats from exclusively one-hour programs of technical content to those of shorter duration resulting in higher profits for the same programming.</li>
 
-                        <li>Developed programming for non-traditional markets, which have opened up previously un-exploited segments. Periodic domestic travel.</li>
+                        <li>Developed programming for non-traditional markets, which have opened up previously un-<abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ed segments. Periodic domestic travel.</li>
                     </ul>
                 </div>
             </div>
