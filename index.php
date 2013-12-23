@@ -52,7 +52,7 @@
             <div class="content-summary">
                 <h2>Experience Summary</h2>
 
-                <p>I have extensive experience as an individual contributor, a team leader, and a project manager. I&#39;ve worked as a System Engineer, a System Integrator, an Operations Manager, a Hardware Engineer, a Systems Administrator, a Hardware technician, a Video Producer and trainer, and a US Navy enlisted Chief Electronics Technician ashore, abroad, and afloat as a Division Chief, a Leading Petty Officer (LPO), a Work Center Supervisor, instructor, and a technician.</p>
+                <p>I have extensive experience as an individual contributor, a team leader, and a project manager. I&#39;ve worked as a System Engineer, a System Integrator, an Operations Manager, a Hardware Engineer, a Systems Administrator, a Hardware technician, a Video Producer and trainer, and a <abbr title="United States">US</abbr> Navy enlisted Chief Electronics Technician ashore, abroad, and afloat as a Division Chief, a Leading Petty Officer (LPO), a Work Center Supervisor, instructor, and a technician.</p>
 
                 <p>I&#39;ve variously worked in a wide range of roles summarized below and detailed under work experience:</p>
 
@@ -69,9 +69,9 @@
 
                     <li>As a technical supervisor at Norwest Mortgage</li>
 
-                    <li>As a producer at <abbr title="Nuclear Utility Services">NUS</abbr> Training corporation and curriculum developer and trainer in the US Navy</li>
+                    <li>As a producer at <abbr title="Nuclear Utility Services">NUS</abbr> Training corporation and curriculum developer and trainer in the <abbr title="United States">US</abbr> Navy</li>
 
-                    <li>As a individual contributor, a work center supervisor, a leading petty officer and Chief in the US Navy</li>
+                    <li>As a individual contributor, a work center supervisor, a leading petty officer and Chief in the <abbr title="United States">US</abbr> Navy</li>
                 </ul>
 
                 <p></p>
@@ -217,7 +217,7 @@
                         </tr>
 
                         <tr>
-                            <td>US Navy</td>
+                            <td><abbr title="United States">US</abbr> Navy</td>
 
                             <td>Various</td>
 
@@ -359,13 +359,13 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#navy-detail"><span class="contract-name">US Navy</span> <span class="contract-date">12/1975 - 03/1986</span></h4>
+                <h4 data-toggle="collapse" data-target="#navy-detail"><span class="contract-name"><abbr title="United States">US</abbr> Navy</span> <span class="contract-date">12/1975 - 03/1986</span></h4>
 
                 <div id="navy-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
-                        <li>After initial military and technical training I was deployed to the Philippines supporting the Naval Communication Station at San Miguel. Stationed at Subic supporting the Autodin systems there and at Cubi Point supporting the receiver site Multiplex baseband and Microwave shot to Clark AFB. Additional periodic deployments to other Communication Station facilities at Mt. Santa Rita Relay site, a Transmitter site, and the US Embassy in Manila, all of which were on the island of Luzon.</li>
+                        <li>After initial military and technical training I was deployed to the Philippines supporting the Naval Communication Station at San Miguel. Stationed at Subic supporting the Autodin systems there and at Cubi Point supporting the receiver site Multiplex baseband and Microwave shot to Clark AFB. Additional periodic deployments to other Communication Station facilities at Mt. Santa Rita Relay site, a Transmitter site, and the <abbr title="United States">US</abbr> Embassy in Manila, all of which were on the island of Luzon.</li>
 
-                        <li>Returning to the US, I filled an instructor duty billet which consisted of extensive curriculum re-development moving from analog electronics and systems to digital electronics and systems. Also, for a long period I was the remedial education supervisor working closely with students who were struggling academically.</li>
+                        <li>Returning to the <abbr title="United States">US</abbr>, I filled an instructor duty billet which consisted of extensive curriculum re-development moving from analog electronics and systems to digital electronics and systems. Also, for a long period I was the remedial education supervisor working closely with students who were struggling academically.</li>
 
                         <li>My next operational assignment after FFG systems training was a plank owner on the still-building USS Curts FFG-38 (which just decommissioned in Jan &#39;13). Initially I was the LPO and was promoted to Chief on board. Took the new ship through sea trials and certification tests.</li>
 
