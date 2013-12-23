@@ -59,7 +59,7 @@
                 <ul>
                     <li>As a project manager for <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, <abbr title="Department of Energy">DOE</abbr> transition, <abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers, NEA stand-up, and Mission partner <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> projects detailed below.</li>
 
-                    <li>As a team leader for <abbr title="Central Command">CENTCOM</abbr> <abbr title="NGA Library Equivalent">NLE</abbr> &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
+                    <li>As a team leader for <abbr title="Central Command">CENTCOM</abbr> <abbr title="NGA Library Equivalent">NLE</abbr> &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities <abbr title="Fiscal Year">FY</abbr> 07 Epoch, 95/178, and 142/149.</li>
 
                     <li>As an operations support manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract and the IDEX contract.</li>
 
@@ -285,9 +285,9 @@
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name"><abbr title="NGA Library Equivalent">NLE</abbr> FY07 Epoch</span> <span class="contract-detail-date">01/2008 - 07-2008</span></h5>
+                    <h5><span class="contract-detail-name"><abbr title="NGA Library Equivalent">NLE</abbr> <abbr title="Fiscal Year">FY</abbr>07 Epoch</span> <span class="contract-detail-date">01/2008 - 07-2008</span></h5>
 
-                    <p>System Integration Team Lead for <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> test and deployment of the FY07 Epoch capability upgrade to all of the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (<abbr title="NGA Library Equivalent">NLE</abbr> sites). It involved production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
+                    <p>System Integration Team Lead for <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> test and deployment of the <abbr title="Fiscal Year">FY</abbr>07 Epoch capability upgrade to all of the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (<abbr title="NGA Library Equivalent">NLE</abbr> sites). It involved production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
