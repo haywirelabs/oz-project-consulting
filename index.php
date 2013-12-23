@@ -59,7 +59,7 @@
                 <ul>
                     <li>As a project manager for eXploit pre-acquisition, DOE transition, WALA site cutovers, NEA stand-up, and Mission partner IEC projects detailed below.</li>
 
-                    <li>As a team leader for CENTCOM NLE &amp; forward, as well as the NGA Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
+                    <li>As a team leader for CENTCOM NLE &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
 
                     <li>As an operations support manager on the IEC development contract and the IDEX contract.</li>
 
@@ -231,7 +231,7 @@
 
             <div class="content-customers">
                 <h3>Customers</h3>
-                  <p><span class="customer-name">National Geospatial-Intelligence Agency (NGA)</span> <span class="customer-date">11/2003 - Present</span></p>
+                  <p><span class="customer-name">National Geospatial-Intelligence Agency (<abbr title="National Geospacial-Intelligence Agency">NGA</abbr>)</span> <span class="customer-date">11/2003 - Present</span></p>
                   <p><span class="customer-name">National Imagery and Mapping Agency (NIMA)</span> <span class="customer-date">11/1996 - 11/2003</span></p>
                   <p><span class="customer-name">National Photographic Interpretation Center (NPIC)</span> <span class="customer-date">03/1989 - 11/1996</span></p>
             </div>
@@ -243,7 +243,7 @@
                     <h5><span class="contract-detail-name">eXploit Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
 
                     <ul>
-                        <li>Project Manager for the NSG SI pre-acquisition support to the eXploit Program Office, which is the planned follow-on to the NGA Image Exploitation Capability (IEC) sustainment contract.</li>
+                        <li>Project Manager for the NSG SI pre-acquisition support to the eXploit Program Office, which is the planned follow-on to the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Image Exploitation Capability (IEC) sustainment contract.</li>
 
                         <li>Collaborated on an IEC SRD effort to split requirements into ASP and ISP components as well as by security domain. ISP requirements have transitioned to the ISP. ASP requirements are now part of an eXploit SRD and will transition to the eXploit contract awardee.</li>
 
@@ -257,49 +257,49 @@
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">DOE Transition</span> <span class="contract-detail-date">06/2011 - 01/2012</span></h5>
 
-                    <p>Integration deployment project manager for this architecture transition effort moving eight of NGA&#39;s external image exploitation sites located on the Department of Energy (DOE) backbone from the DCM architecture to the WALA architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
+                    <p>Integration deployment project manager for this architecture transition effort moving eight of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s external image exploitation sites located on the Department of Energy (DOE) backbone from the DCM architecture to the WALA architecture. This involved changes to source libraries and workflow management as well as the accompanying user training and sustainment changes.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">CENTCOM NLE &amp; Forward</span> <span class="contract-detail-date">11/2010 - 06/2011</span></h5>
 
-                    <p>This was a relatively small IV&amp;V effort supporting the NGA Expeditionary Architecture (NEA) team as they established an NGA image exploitation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
+                    <p>This was a relatively small IV&amp;V effort supporting the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Expeditionary Architecture (NEA) team as they established an <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> image exploitation capability on the Secret/Collateral domain for CENTCOM domestically and forward deployed. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">WALA site cutovers</span> <span class="contract-detail-date">01/2010 - 11/2010</span></h5>
 
-                    <p>Integration deployment project manager for this high visibility effort to transition all of NGA&#39;s internal WALA architecture sites old source libraries to the new STIL library. It involved frequent domestic travel and some international travel.</p>
+                    <p>Integration deployment project manager for this high visibility effort to transition all of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr>&#39;s internal WALA architecture sites old source libraries to the new STIL library. It involved frequent domestic travel and some international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NEA Standup</span> <span class="contract-detail-date">01/2009 - 01/2010</span></h5>
 
-                    <p>Integration deployment project manager for the initial effort to test and deploy the NGA Expeditionary Architecture (NEA). Responsible for deployment, system integration and test support of NEA systems to war zone sites at Bagram, Baghdad, and Kabul integrating customer capabilities into those locations and providing interfaces to sister agencies/services. Produced Transition and Test Plan deliverables. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. NEA received the Meritorious Unit Citation. It involved periodic international travel.</p>
+                    <p>Integration deployment project manager for the initial effort to test and deploy the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Expeditionary Architecture (NEA). Responsible for deployment, system integration and test support of NEA systems to war zone sites at Bagram, Baghdad, and Kabul integrating customer capabilities into those locations and providing interfaces to sister agencies/services. Produced Transition and Test Plan deliverables. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. NEA received the Meritorious Unit Citation. It involved periodic international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">Mission Partner IEC&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
 
-                    <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four NGA exploitation sites for a mission partner. It involved periodic domestic and international travel.</p>
+                    <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> exploitation sites for a mission partner. It involved periodic domestic and international travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NLE FY07 Epoch</span> <span class="contract-detail-date">01/2008 - 07-2008</span></h5>
 
-                    <p>System Integration Team Lead for NGA test and deployment of the FY07 Epoch capability upgrade to all of the NGA Library Equivalent (NLE sites). It involved production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
+                    <p>System Integration Team Lead for <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> test and deployment of the FY07 Epoch capability upgrade to all of the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (NLE sites). It involved production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts. Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NLE NE-95/178</span> <span class="contract-detail-date">05/2006 - 01/2008</span></h5>
 
-                    <p>System Integration Team Lead for NGA test and deployment of the NE-95/178 capability upgrade to all of the NGA Library Equivalent (NLE sites). It involved frequent domestic travel and production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
+                    <p>System Integration Team Lead for <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> test and deployment of the NE-95/178 capability upgrade to all of the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (NLE sites). It involved frequent domestic travel and production of transition and test plan deliverables. Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
                     <h5><span class="contract-detail-name">NLE NE-142/149</span> <span class="contract-detail-date">07/2004 - 05/2006</span></h5>
 
-                    <p>System Integration Team Lead responsible the initial establishment of both a hardware and software baseline of capabilities at the NGA Library Equivalent (NLE) sites providing test support, transition and test plan deliverables.Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
+                    <p>System Integration Team Lead responsible the initial establishment of both a hardware and software baseline of capabilities at the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Library Equivalent (NLE) sites providing test support, transition and test plan deliverables.Provided oversight of multi-contractor teams of technical professionals and Government Program Office personnel on in-the-field systems integration efforts Conducted Level 1, 2 and 3 Milestone readiness events and reporting. It involved frequent domestic travel.</p>
                 </div>
             </div>
 
@@ -308,7 +308,7 @@
 
                 <div id="iec-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
-                        <li>Operation Support manager responsible for providing IEC Program Operations and Sustainment (O&amp;S) support to a range of NGA external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, CENTCOM, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
+                        <li>Operation Support manager responsible for providing IEC Program Operations and Sustainment (O&amp;S) support to a range of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, CENTCOM, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
 
                         <li>Deputy Engineering Manager responsible for systems full life-cycle support of a UNIX (Solaris &amp; IRIX) server and Windows 2000 client system coordinating the efforts of multiple contractor factory and remote site deployed engineers in a common effort of hardware, software, and systems upgrade and their ongoing operations and maintenance. Performed requirements analysis and development including custom (security requirements related) software development to a pre-packaged COTS/GOTS product baseline, hardware deployment, engineering staffing, RFC analysis, ECP generation, integration and test, requirements sell-off, CDRL&#39;s, and frequent customer interaction and presentations.</li>
 
