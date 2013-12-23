@@ -57,13 +57,13 @@
                 <p>I&#39;ve variously worked in a wide range of roles summarized below and detailed under work experience:</p>
 
                 <ul>
-                    <li>As a project manager for <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, <abbr title="Department of Energy">DOE</abbr> transition, <abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers, NEA stand-up, and Mission partner IEC projects detailed below.</li>
+                    <li>As a project manager for <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> pre-acquisition, <abbr title="Department of Energy">DOE</abbr> transition, <abbr title="Washington Area Library Architecture">WALA</abbr> site cutovers, NEA stand-up, and Mission partner <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> projects detailed below.</li>
 
                     <li>As a team leader for CENTCOM NLE &amp; forward, as well as the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Effectivities FY 07 Epoch, 95/178, and 142/149.</li>
 
-                    <li>As an operations support manager on the IEC development contract and the IDEX contract.</li>
+                    <li>As an operations support manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract and the IDEX contract.</li>
 
-                    <li>As a deputy engineering manager on the IEC development contract.</li>
+                    <li>As a deputy engineering manager on the <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> development contract.</li>
 
                     <li>As an individual contributor on the IDEX contract.</li>
 
@@ -243,9 +243,9 @@
                     <h5><span class="contract-detail-name"><abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program pre-acquisition support</span> <span class="contract-detail-date">01/2012 - Present</span></h5>
 
                     <ul>
-                        <li>Project Manager for the NSG SI pre-acquisition support to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program Office, which is the planned follow-on to the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Image <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation Capability (IEC) sustainment contract.</li>
+                        <li>Project Manager for the NSG SI pre-acquisition support to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Program Office, which is the planned follow-on to the <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> Image Exploitation Capability (<abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) sustainment contract.</li>
 
-                        <li>Collaborated on an IEC SRD effort to split requirements into ASP and ISP components as well as by security domain. ISP requirements have transitioned to the ISP. ASP requirements are now part of an <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> SRD and will transition to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> contract awardee.</li>
+                        <li>Collaborated on an <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> SRD effort to split requirements into ASP and ISP components as well as by security domain. ISP requirements have transitioned to the ISP. ASP requirements are now part of an <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> SRD and will transition to the <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> contract awardee.</li>
 
                         <li>Actively re-defining Agile systems engineering processes and tools in support of anticipated <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr> Agile development acquisition effort.</li>
 
@@ -279,7 +279,7 @@
                 </div>
 
                 <div class="content-contract-detail well well-sm geoscout-detail collapse in">
-                    <h5><span class="contract-detail-name">Mission Partner IEC&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
+                    <h5><span class="contract-detail-name">Mission Partner <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>&#39;s</span> <span class="contract-detail-date">07/2008 - 01/2009</span></h5>
 
                     <p>Integration deployment project manager for a small effort to integrate and test new robust capabilities to four <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation sites for a mission partner. It involved periodic domestic and international travel.</p>
                 </div>
@@ -304,11 +304,11 @@
             </div>
 
             <div class="content-contract">
-                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation Capability (IEC) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
+                <h4 data-toggle="collapse" data-target="#iec-detail"><span class="contract-name">Integrated <abbr title="NGA contract for future imagery exploitation solutions">eXploit</abbr>ation Capability (<abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr>) Development Contract</span> <span class="contract-date">08/2001 - 07/2004</span></h4>
 
                 <div id="iec-detail" class="content-contract-detail well well-sm collapse">
                     <ul>
-                        <li>Operation Support manager responsible for providing IEC Program Operations and Sustainment (O&amp;S) support to a range of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, CENTCOM, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
+                        <li>Operation Support manager responsible for providing <abbr title="Image Exploitation Capability – NGA contract for current (last) generation imagery exploitation solutions">IEC</abbr> Program Operations and Sustainment (O&amp;S) support to a range of <abbr title="National Geospacial-Intelligence Agency">NGA</abbr> external sites such as COCOM&#39;s (NORTHCOM, SOUTHCOM, CENTCOM, STRATCOM etc. or internal sites (Bethesda, WNY, etc) and other civil government agencies. Organized the transition of this Acquisitions CLIN to an entirely separate ISP sustainment contract. It involved periodic domestic travel.</li>
 
                         <li>Deputy Engineering Manager responsible for systems full life-cycle support of a UNIX (Solaris &amp; IRIX) server and Windows 2000 client system coordinating the efforts of multiple contractor factory and remote site deployed engineers in a common effort of hardware, software, and systems upgrade and their ongoing operations and maintenance. Performed requirements analysis and development including custom (security requirements related) software development to a pre-packaged COTS/GOTS product baseline, hardware deployment, engineering staffing, RFC analysis, ECP generation, integration and test, requirements sell-off, CDRL&#39;s, and frequent customer interaction and presentations.</li>
 
