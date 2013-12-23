@@ -232,8 +232,8 @@
             <div class="content-customers">
                 <h3>Customers</h3>
                   <p><span class="customer-name">National Geospatial-Intelligence Agency (<abbr title="National Geospacial-Intelligence Agency">NGA</abbr>)</span> <span class="customer-date">11/2003 - Present</span></p>
-                  <p><span class="customer-name">National Imagery and Mapping Agency (NIMA)</span> <span class="customer-date">11/1996 - 11/2003</span></p>
-                  <p><span class="customer-name">National Photographic Interpretation Center (NPIC)</span> <span class="customer-date">03/1989 - 11/1996</span></p>
+                  <p><span class="customer-name">National Imagery and Mapping Agency (<abbr title="National Imagery and Mapping Agency">NIMA</abbr>)</span> <span class="customer-date">11/1996 - 11/2003</span></p>
+                  <p><span class="customer-name">National Photographic Interpretation Center (<abbr title="National Photographic Interpretation Center">NPIC</abbr>)</span> <span class="customer-date">03/1989 - 11/1996</span></p>
             </div>
 
             <div class="content-contract">
@@ -330,7 +330,7 @@
 
                         <li>Managed the operations and maintenance support crew of 5 technicians and engineers at both the CIA and DIA <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> sites. Provided hardware, software and systems engineering site services as well as day-to-day (5 X 12) operations. Periodic domestic travel.</li>
 
-                        <li>Performed Systems Engineering support on the <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> program for NIMA at the Washington Navy Yard. Produced a range of CDRL&#39;s and provided impacts to RFC&#39;s. Predominately involved in upgrading existing DEC Alpha servers and expanding existing Sybase image database beyond its constraints. Also, routinely delivered <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> systems software upgrades IAW contract.</li>
+                        <li>Performed Systems Engineering support on the <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> program for <abbr title="National Imagery and Mapping Agency">NIMA</abbr> at the Washington Navy Yard. Produced a range of CDRL&#39;s and provided impacts to RFC&#39;s. Predominately involved in upgrading existing DEC Alpha servers and expanding existing Sybase image database beyond its constraints. Also, routinely delivered <abbr title="Image Display and Exploitation - last generation imagery exploitation solution">IDEX</abbr> systems software upgrades IAW contract.</li>
                     </ul>
                 </div>
             </div>
