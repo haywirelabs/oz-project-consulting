@@ -175,6 +175,17 @@ hr{
 @media (min-width: 1200px) {
 }
 @media print {
+  a{
+    text-decoration: none;
+    color: #000000;
+  }
+  a:after {
+    content: " (" attr(href) ")";
+  }
+  
+  abbr:after {
+    content: " (" attr(title) ")";
+  }
 }
 
 

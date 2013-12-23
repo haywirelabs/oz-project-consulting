@@ -3,16 +3,17 @@
 <html>
 <head>
     <title>Joe Osborne - Project Consultant</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
-    <link href="assets/css/oz.css" rel="stylesheet" type="text/css"><!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css' />
+    <link media="screen,print" href="assets/css/oz.css" rel="stylesheet" type="text/css" /><!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+    <link media="print" rel="stylesheet" type="text/ccs" href="assets/css/print.css" />
 </head>
 
 <body>
@@ -28,8 +29,8 @@
                     <a href="#" id="drop" role="button" class="dropdown-toggle" data-toggle="dropdown">Download<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu" aria-labelledby="drop">
                       <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/Osborne_2013v2.docx">Word Version</a></li>
-                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/JoeOsborne-ProjectConsultant.pdf">PDF Version</a></li>
-                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/JoeOsborne-ProjectConsultant-Long.pdf">PDF Version (Long)</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/Joe%20Osborne%20-%20Project%20Consultant.pdf">PDF Version</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="downloads/Joe%20Osborne%20-%20Project%20Consultant%20-%20Full.pdf">PDF Version (Full)</a></li>
                     </ul>
                   </li>
                 </ul>
